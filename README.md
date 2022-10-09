@@ -1,2 +1,2 @@
 # HySQL-Command-Line
-MySQL command line client clone with added functionality
+HySQL is MySQL command line client clone with added functionality
